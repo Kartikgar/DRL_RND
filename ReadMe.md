@@ -13,5 +13,6 @@ The video `pendulum.mp4` shows the trained policy using this codebase on colab. 
 <video width="320" height="240" controls>
   <source src="pendulum.mp4" type="video/mp4">
 </video>
+
 ## Acknowledgment
 We build our codebase upon the PPO implementation by [https://github.com/seungeunrho/minimalRL](https://github.com/seungeunrho/minimalRL)
