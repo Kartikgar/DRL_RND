@@ -1,11 +1,11 @@
 # Minimal implemetation of Random Network Distillation 
-In this notebook we implement RND on a abasic Pendulum environment.
+In this notebook we implement RND on the Pendulum environment.
 To run this notebook upload it on colab and directly run the cells. To run it locally you can use the uploaded yaml file to create conda env as follows:
 ```
 conda create -f drl.yml
 ```
 
-Note: Performance might vary due to different versions of llibrary installed in colab.
+Note: Performance might vary due to different versions of libraries installed in colab.
 
 
 ## Result
